@@ -5,4 +5,5 @@ my secound repository
 ok i wanna built an association which would later be called as dumb nerd association
 
 still dont understand where to begin and what to do 
-
+day 3 19thmarch2024
+still figuring out what to do
