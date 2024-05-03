@@ -7,3 +7,6 @@ ok i wanna built an association which would later be called as dumb nerd associa
 still dont understand where to begin and what to do 
 day 3 19thmarch2024
 still figuring out what to do
+
+
+can someone explain how this thing work
