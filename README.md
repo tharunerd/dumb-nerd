@@ -10,3 +10,5 @@ still figuring out what to do
 
 
 can someone explain how this thing work
+the phase of regretion 
+i truely dont know where to start
